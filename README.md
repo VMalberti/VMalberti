@@ -1,4 +1,4 @@
-Console.WriteLine("Olá, eu me chamo Vitor!");
+Console.Log("Olá, eu me chamo Vitor!");
 
 /*
 * Estou cursando ADS (Análise e Desenvolvimento de Sistemas) na Universidade Santa Cecília. Este perfil é dedicado
