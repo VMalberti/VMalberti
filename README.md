@@ -18,3 +18,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/VMalberti/VMalberti/output/github-contribution-grid-snake.svg)
 
+
