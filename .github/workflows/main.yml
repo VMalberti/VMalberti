@@ -13,6 +13,10 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      # Create dist directory
+      - name: Create dist folder
+        run: mkdir -p dist
+
       # Snake Animation
       - uses: Platane/snk@v3
         id: snake-gif
